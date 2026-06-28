@@ -1,4 +1,6 @@
-# Pojects overview
+# Projects overview
+
+This org builds the plumbing for AI shopping agents to transact with real e-commerce stores over Google's Universal Commerce Protocol (UCP): store-side connectors that open a shop to agents, a merchant dashboard for attribution and rule-based control over that agent traffic, and an agent-side server that shops those stores from inside Claude or ChatGPT.
 
 The repositories below are grouped by the academic quarter in which their first commit landed.
 
