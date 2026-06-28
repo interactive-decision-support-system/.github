@@ -1,6 +1,4 @@
-# Interactive Decision Support System (LDR)
-
-An overview of projects built at the Stanford LDR Lab.
+# Pojects overview
 
 The repositories below are grouped by the academic quarter in which their first commit landed.
 
